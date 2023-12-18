@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+}
+.logo {
+    padding-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
